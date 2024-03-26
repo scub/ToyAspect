@@ -12,6 +12,7 @@ This a toy implementation to demonstrate how to use and debug AWS CDK aspect lib
 
 ```bash
 .
+├── .assets - This holds README assets
 ├── .vscode - This holds a launch configuration that lets us debug the aspect  
 ├── bin     - This holds a demo-stack that is used as part of the debug harness  
 ├── lib     - This holds our aspect
